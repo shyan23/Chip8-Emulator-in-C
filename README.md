@@ -3,7 +3,12 @@ This a chip8 emulator,written in C with minimalistic sound and great visual appe
 
 To play any games or run demos, write in terminal
 
-./chip8.c ROM_PATH
+make 
+
+then write ./menu
+
+after choose which game to play
+
 
 for SOUND
 
