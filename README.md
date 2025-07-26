@@ -31,8 +31,6 @@ CHIP-8 is an interpreted programming language developed in the mid-1970s by Jose
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="100" alt="C"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="100" alt="Python"/>
-  <img src="https://avatars.githubusercontent.com/u/235078?s=200&v=4" width="100" alt="SDL"/>
 </div>
 
 ## 🌟 Key Features
